@@ -14,8 +14,6 @@ Program-Description:
     (Use appropriate named constants to store the special values such as royalty rates and fixed royalties.).
 ************/
 
-
-
 #include <iostream>
 #include <string>
 

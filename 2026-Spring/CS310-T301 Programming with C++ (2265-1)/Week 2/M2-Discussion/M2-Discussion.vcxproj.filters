@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Week 4\Discussion\M4-DiscussionResp-DaltonGoodwin.cpp">
+    <ClCompile Include="M2-Discussion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="JesseBunnell-m2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

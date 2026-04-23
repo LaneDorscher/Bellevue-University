@@ -4,7 +4,6 @@
 * Date: 03/26/2026
 */
 
-/*
 #include <iostream>
 
 int main()
@@ -36,5 +35,3 @@ int main()
     return 0;
 
 }
-
-*/

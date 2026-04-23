@@ -13,7 +13,7 @@ using namespace std;
 int main()
 {
 
-	int num = 1;
+	int num;
 
 	cout << "I am Count Dracula and I shall count to your number!\n";
 	cout << "Enter a number and I will count to it! ";
